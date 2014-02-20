@@ -341,6 +341,136 @@ std_msgs_generate_messages_py/fast:
 	$(MAKE) -f beginner_tutorials/CMakeFiles/std_msgs_generate_messages_py.dir/build.make beginner_tutorials/CMakeFiles/std_msgs_generate_messages_py.dir/build
 .PHONY : std_msgs_generate_messages_py/fast
 
+#=============================================================================
+# Target rules for targets named listener
+
+# Build rule for target.
+listener: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 listener
+.PHONY : listener
+
+# fast build rule for target.
+listener/fast:
+	$(MAKE) -f robot_soccer/CMakeFiles/listener.dir/build.make robot_soccer/CMakeFiles/listener.dir/build
+.PHONY : listener/fast
+
+#=============================================================================
+# Target rules for targets named robot_soccer_gencpp
+
+# Build rule for target.
+robot_soccer_gencpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 robot_soccer_gencpp
+.PHONY : robot_soccer_gencpp
+
+# fast build rule for target.
+robot_soccer_gencpp/fast:
+	$(MAKE) -f robot_soccer/CMakeFiles/robot_soccer_gencpp.dir/build.make robot_soccer/CMakeFiles/robot_soccer_gencpp.dir/build
+.PHONY : robot_soccer_gencpp/fast
+
+#=============================================================================
+# Target rules for targets named robot_soccer_generate_messages
+
+# Build rule for target.
+robot_soccer_generate_messages: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 robot_soccer_generate_messages
+.PHONY : robot_soccer_generate_messages
+
+# fast build rule for target.
+robot_soccer_generate_messages/fast:
+	$(MAKE) -f robot_soccer/CMakeFiles/robot_soccer_generate_messages.dir/build.make robot_soccer/CMakeFiles/robot_soccer_generate_messages.dir/build
+.PHONY : robot_soccer_generate_messages/fast
+
+#=============================================================================
+# Target rules for targets named robot_soccer_generate_messages_cpp
+
+# Build rule for target.
+robot_soccer_generate_messages_cpp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 robot_soccer_generate_messages_cpp
+.PHONY : robot_soccer_generate_messages_cpp
+
+# fast build rule for target.
+robot_soccer_generate_messages_cpp/fast:
+	$(MAKE) -f robot_soccer/CMakeFiles/robot_soccer_generate_messages_cpp.dir/build.make robot_soccer/CMakeFiles/robot_soccer_generate_messages_cpp.dir/build
+.PHONY : robot_soccer_generate_messages_cpp/fast
+
+#=============================================================================
+# Target rules for targets named robot_soccer_generate_messages_lisp
+
+# Build rule for target.
+robot_soccer_generate_messages_lisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 robot_soccer_generate_messages_lisp
+.PHONY : robot_soccer_generate_messages_lisp
+
+# fast build rule for target.
+robot_soccer_generate_messages_lisp/fast:
+	$(MAKE) -f robot_soccer/CMakeFiles/robot_soccer_generate_messages_lisp.dir/build.make robot_soccer/CMakeFiles/robot_soccer_generate_messages_lisp.dir/build
+.PHONY : robot_soccer_generate_messages_lisp/fast
+
+#=============================================================================
+# Target rules for targets named robot_soccer_generate_messages_py
+
+# Build rule for target.
+robot_soccer_generate_messages_py: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 robot_soccer_generate_messages_py
+.PHONY : robot_soccer_generate_messages_py
+
+# fast build rule for target.
+robot_soccer_generate_messages_py/fast:
+	$(MAKE) -f robot_soccer/CMakeFiles/robot_soccer_generate_messages_py.dir/build.make robot_soccer/CMakeFiles/robot_soccer_generate_messages_py.dir/build
+.PHONY : robot_soccer_generate_messages_py/fast
+
+#=============================================================================
+# Target rules for targets named robot_soccer_genlisp
+
+# Build rule for target.
+robot_soccer_genlisp: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 robot_soccer_genlisp
+.PHONY : robot_soccer_genlisp
+
+# fast build rule for target.
+robot_soccer_genlisp/fast:
+	$(MAKE) -f robot_soccer/CMakeFiles/robot_soccer_genlisp.dir/build.make robot_soccer/CMakeFiles/robot_soccer_genlisp.dir/build
+.PHONY : robot_soccer_genlisp/fast
+
+#=============================================================================
+# Target rules for targets named robot_soccer_genpy
+
+# Build rule for target.
+robot_soccer_genpy: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 robot_soccer_genpy
+.PHONY : robot_soccer_genpy
+
+# fast build rule for target.
+robot_soccer_genpy/fast:
+	$(MAKE) -f robot_soccer/CMakeFiles/robot_soccer_genpy.dir/build.make robot_soccer/CMakeFiles/robot_soccer_genpy.dir/build
+.PHONY : robot_soccer_genpy/fast
+
+#=============================================================================
+# Target rules for targets named talkerVision
+
+# Build rule for target.
+talkerVision: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 talkerVision
+.PHONY : talkerVision
+
+# fast build rule for target.
+talkerVision/fast:
+	$(MAKE) -f robot_soccer/CMakeFiles/talkerVision.dir/build.make robot_soccer/CMakeFiles/talkerVision.dir/build
+.PHONY : talkerVision/fast
+
+#=============================================================================
+# Target rules for targets named talkerWheel
+
+# Build rule for target.
+talkerWheel: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 talkerWheel
+.PHONY : talkerWheel
+
+# fast build rule for target.
+talkerWheel/fast:
+	$(MAKE) -f robot_soccer/CMakeFiles/talkerWheel.dir/build.make robot_soccer/CMakeFiles/talkerWheel.dir/build
+.PHONY : talkerWheel/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -369,6 +499,16 @@ help:
 	@echo "... std_msgs_generate_messages_cpp"
 	@echo "... std_msgs_generate_messages_lisp"
 	@echo "... std_msgs_generate_messages_py"
+	@echo "... listener"
+	@echo "... robot_soccer_gencpp"
+	@echo "... robot_soccer_generate_messages"
+	@echo "... robot_soccer_generate_messages_cpp"
+	@echo "... robot_soccer_generate_messages_lisp"
+	@echo "... robot_soccer_generate_messages_py"
+	@echo "... robot_soccer_genlisp"
+	@echo "... robot_soccer_genpy"
+	@echo "... talkerVision"
+	@echo "... talkerWheel"
 .PHONY : help
 
 

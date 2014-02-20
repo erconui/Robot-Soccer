@@ -2,6 +2,14 @@
 /home/jared/catkin_ws/build/CMakeFiles/doxygen.dir
 /home/jared/catkin_ws/build/gtest/CMakeFiles/gtest.dir
 /home/jared/catkin_ws/build/gtest/CMakeFiles/gtest_main.dir
+/home/jared/catkin_ws/build/robot_soccer/CMakeFiles/listener.dir
+/home/jared/catkin_ws/build/robot_soccer/CMakeFiles/robot_soccer_gencpp.dir
+/home/jared/catkin_ws/build/robot_soccer/CMakeFiles/robot_soccer_generate_messages.dir
+/home/jared/catkin_ws/build/robot_soccer/CMakeFiles/robot_soccer_generate_messages_cpp.dir
+/home/jared/catkin_ws/build/robot_soccer/CMakeFiles/robot_soccer_generate_messages_lisp.dir
+/home/jared/catkin_ws/build/robot_soccer/CMakeFiles/robot_soccer_generate_messages_py.dir
+/home/jared/catkin_ws/build/robot_soccer/CMakeFiles/robot_soccer_genlisp.dir
+/home/jared/catkin_ws/build/robot_soccer/CMakeFiles/robot_soccer_genpy.dir
 /home/jared/catkin_ws/build/beginner_tutorials/CMakeFiles/roscpp_generate_messages_cpp.dir
 /home/jared/catkin_ws/build/beginner_tutorials/CMakeFiles/roscpp_generate_messages_lisp.dir
 /home/jared/catkin_ws/build/beginner_tutorials/CMakeFiles/roscpp_generate_messages_py.dir
@@ -12,4 +20,6 @@
 /home/jared/catkin_ws/build/beginner_tutorials/CMakeFiles/std_msgs_generate_messages_cpp.dir
 /home/jared/catkin_ws/build/beginner_tutorials/CMakeFiles/std_msgs_generate_messages_lisp.dir
 /home/jared/catkin_ws/build/beginner_tutorials/CMakeFiles/std_msgs_generate_messages_py.dir
+/home/jared/catkin_ws/build/robot_soccer/CMakeFiles/talkerVision.dir
+/home/jared/catkin_ws/build/robot_soccer/CMakeFiles/talkerWheel.dir
 /home/jared/catkin_ws/build/CMakeFiles/tests.dir
